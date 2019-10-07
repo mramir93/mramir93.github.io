@@ -1,6 +1,6 @@
 # mramir93.github.io
 
-<h3>
+<h1>
 Hello 
-</h3>
+</h1>
 <b>World</b>
